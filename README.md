@@ -1,1 +1,0 @@
-# filtrutt32.txt
